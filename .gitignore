@@ -1,3 +1,7 @@
+### au modifications
+build/**/
+!build/.gitkeep
+
 ## OSX artifacts
 .DS_Store
 
