@@ -1,8 +1,15 @@
+<<<<<<< HEAD
 
 build/**/
 !build/.gitkeep
 *.vcxproj
 *.vcxproj.*
+=======
+### au modifications
+build/**/
+!build/.gitkeep
+
+>>>>>>> tmp
 ## OSX artifacts
 .DS_Store
 
